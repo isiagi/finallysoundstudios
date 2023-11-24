@@ -5,7 +5,7 @@ import React from "react";
 function Page() {
   return (
     <div>
-      <HeaderBanner />
+      <HeaderBanner name="Services" />
       <div className="px-5">
         <div className="grid grid-cols-fluid relative">
           <div className="max-w-[400px]">
