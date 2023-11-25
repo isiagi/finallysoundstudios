@@ -1,4 +1,5 @@
 import Hero from "@/components/hero/Hero";
+import Player from "@/components/player/Player";
 import Team from "@/components/team/Team";
 import Testimonial from "@/components/testmon/Testimonial";
 import Why from "@/components/why/Why";
@@ -9,6 +10,7 @@ function Page() {
     <>
       <Hero />
       <Why />
+      <Player />
       <Testimonial />
       <Team />
     </>
