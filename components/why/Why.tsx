@@ -5,42 +5,60 @@ function Why() {
     <div className="py-10">
       <div className="grid grid-cols-fluid px-5">
         <div>
-          <p>Why choose us</p>
-          <h3>It takes two flints to make a fire.</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-            tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+          <p className="text-3xl font-medium">Why choose us</p>
+          <h3 className="text-xl py-2 font-medium text-gray-900">
+            Elevate Your Sound with Nexus Beats
+          </h3>
+          <p className="max-w-[500px] leading-7 text-slate-600">
+            Welcome to Nexus Beats, where we don&apos;t just create music; we
+            sculpt experiences. Our commitment lies in crafting sonic landscapes
+            that resonate with depth, clarity, and emotion. As you explore our
+            services, discover why Nexus Beats stands as a beacon for audio
+            excellence.
           </p>
 
           <button type="button">Book Session</button>
         </div>
         <div className="grid grid-cols-fluid gap-2">
           <div className="border-[1px] p-4">
-            <h3>It takes two</h3>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-              tellus,
+            <h3 className="text-xl font-medium pb-2">
+              Precision and Expertise
+            </h3>
+            <p className="leading-7 text-slate-600">
+              Our seasoned team of audio engineers and producers brings years of
+              expertise to every project. With an unwavering commitment to
+              precision, we ensure your music reaches its fullest potential,
+              crafted meticulously to stand out in today&apos;s competitive
+              landscape.
             </p>
           </div>
           <div className="border-[1px] p-4">
-            <h3>It takes two</h3>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-              tellus,
+            <h3 className="text-xl font-medium pb-2">
+              Cutting-Edge Technology
+            </h3>
+            <p className="leading-7 text-slate-600">
+              Nexus Beats houses state-of-the-art studios equipped with
+              cutting-edge technology. From recording to mastering, we leverage
+              the latest tools and techniques, ensuring a seamless production
+              process and impeccable quality in every track.
             </p>
           </div>
           <div className="border-[1px] p-4">
-            <h3>It takes two</h3>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-              tellus,
+            <h3 className="text-xl font-medium pb-2">Passion for Innovation</h3>
+            <p className="leading-7 text-slate-600">
+              Our passion for innovation drives us to constantly explore new
+              horizons in sound. We thrive on pushing boundaries, embracing new
+              trends, and staying ahead of the curve in the ever-evolving realm
+              of music production.
             </p>
           </div>
           <div className="border-[1px] p-4">
-            <h3>It takes two</h3>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-              tellus,
+            <h3 className="text-xl font-medium pb-2">Collaborative Approach</h3>
+            <p className="leading-7 text-slate-600">
+              Collaborating with Nexus Beats means becoming part of a creative
+              journey. We value collaboration and work closely with our clients,
+              ensuring your vision is translated into a sonic masterpiece that
+              exceeds expectations.
             </p>
           </div>
         </div>

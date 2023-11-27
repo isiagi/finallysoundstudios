@@ -4,6 +4,7 @@ import Link from "next/link";
 import React, { useEffect, useState } from "react";
 import { ImCancelCircle } from "react-icons/im";
 import { CgDetailsMore } from "react-icons/cg";
+import Image from "next/image";
 
 function NavBar() {
   const [open, setOpen] = useState(false);
@@ -24,7 +25,13 @@ function NavBar() {
       }`}
     >
       <div className="flex justify-between items-center md:w-auto w-full">
-        <h1 className="font-bold text-white">Finally Sound studios</h1>
+        <Image
+          src="/images/nexus2.jpeg"
+          alt=""
+          width={70}
+          height={70}
+          style={{ objectFit: "cover" }}
+        />
         <div className="md:hidden">
           {open ? (
             <div onClick={() => setOpen(!open)}>
