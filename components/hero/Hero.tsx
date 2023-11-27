@@ -25,13 +25,14 @@ function Hero() {
         {slideImages.map((slideImage, index) => (
           <div key={index}>
             <div
-              style={{ backgroundImage: `url('${slideImage.url}')` }}
-              className="flex items-center bg-cover bg-center h-[88vh] bg-blend-overlay bg-[#00000099]"
+              className="flex items-center bg-center h-[88vh] bg-blend-overlay bg-[#00000099]"
+              style={{
+                backgroundImage: `url('${slideImage.url}')`,
+                backgroundSize: "cover",
+              }}
             >
               <div className="px-12">
-                <h1 className="text-4xl text-white font-medium">
-                  Nexus Bless This Beat
-                </h1>
+                <h1 className="text-4xl text-white font-medium">Nexus Beatz</h1>
                 <p className="text-xl py-2 text-white font-medium max-w-[450px]">
                   Where Waves Become Melodies, and Silence Finds its Voice.
                 </p>
