@@ -6,7 +6,7 @@ import "react-h5-audio-player/lib/styles.css";
 import { useState } from "react";
 
 function Player() {
-  const [song, setSong] = useState<{ song: string; name: string } | {}>({});
+  const [song, setSong] = useState<{ song: string; name: string } | any>({});
   return (
     <div className="py-12 bg-slate-400">
       <div className="text-center max-w-[600px] my-0 mx-auto">
