@@ -30,6 +30,20 @@ const music: Audio[] = [
     //   image: imgSrc3,
     color: "#5f9fff",
   },
+  {
+    title: "50",
+    artist: "tobylane",
+    audioSrc: song,
+    //   image: imgSrc2,
+    color: "#ffb77a",
+  },
+  {
+    title: "I Wonder",
+    artist: "DreamHeaven",
+    audioSrc: Cali,
+    //   image: imgSrc3,
+    color: "#5f9fff",
+  },
 ];
 
 export default music;
