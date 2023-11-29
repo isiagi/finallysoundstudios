@@ -5,11 +5,11 @@ import "react-slideshow-image/dist/styles.css";
 
 const slideImages = [
   {
-    url: "/images/nexus1.jpeg",
+    url: "/images/nexus6.jpg",
     caption: "Slide 1",
   },
   {
-    url: "/images/nexus4.jpeg",
+    url: "/images/nexus1.jpeg",
     caption: "Slide 2",
   },
   {
