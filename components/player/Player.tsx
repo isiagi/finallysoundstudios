@@ -8,7 +8,7 @@ import { useState } from "react";
 function Player() {
   const [song, setSong] = useState<{ song: string; name: string } | any>({});
   return (
-    <div className="py-12 bg-slate-400">
+    <div className="py-12 bg-slate-400 px-5">
       <div className="text-center max-w-[600px] my-0 mx-auto">
         <h1>Our portfolio</h1>
         <h2 className="text-3xl font-semibold">Recent Records</h2>
