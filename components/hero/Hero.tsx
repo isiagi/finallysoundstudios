@@ -36,7 +36,7 @@ function Hero() {
                 <p className="text-xl py-2 text-white font-medium max-w-[450px]">
                   Where Waves Become Melodies, and Silence Finds its Voice.
                 </p>
-                <button className="bg-blue-500 text-white px-4 py-3 rounded">
+                <button className="bg-[#E6CA30] text-white px-4 py-3 rounded">
                   Unlock Your Potential
                 </button>
               </div>

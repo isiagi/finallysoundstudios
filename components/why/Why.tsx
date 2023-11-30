@@ -1,12 +1,15 @@
-import React from "react";
+import { FaHandsHelping } from "react-icons/fa";
+import { GiSelfLove } from "react-icons/gi";
+import { GrTechnology } from "react-icons/gr";
+import { GrUserExpert } from "react-icons/gr";
 
 function Why() {
   return (
     <div className="py-10">
       <div className="grid grid-cols-fluid px-5">
         <div>
-          <p className="text-3xl font-medium">Why choose us</p>
-          <h3 className="text-xl py-2 font-medium text-gray-900">
+          <p className="text-3xl font-medium text-[#E5E02F]">Why choose us</p>
+          <h3 className="text-xl py-2 font-medium  text-gray-600">
             Elevate Your Sound with Nexus Beats
           </h3>
           <p className="max-w-[500px] leading-7 text-slate-600">
@@ -17,11 +20,14 @@ function Why() {
             excellence.
           </p>
 
-          <button type="button">Book Session</button>
+          <button type="button" className="bg-[#E6CA30] text-white p-2 rounded">
+            Book Session
+          </button>
         </div>
         <div className="grid grid-cols-fluid gap-2">
-          <div className="border-[1px] p-4">
-            <h3 className="text-xl font-medium pb-2">
+          <div className="border-[1px] p-4 flex justify-center flex-col items-center">
+            <GrUserExpert className="text-[#AFE630] text-3xl my-2" />
+            <h3 className="text-xl font-medium pb-2 text-gray-600">
               Precision and Expertise
             </h3>
             <p className="leading-7 text-slate-600">
@@ -32,8 +38,9 @@ function Why() {
               landscape.
             </p>
           </div>
-          <div className="border-[1px] p-4">
-            <h3 className="text-xl font-medium pb-2">
+          <div className="border-[1px] p-4 flex justify-center flex-col items-center">
+            <GrTechnology className="text-[#AFE630] text-3xl my-2" />
+            <h3 className="text-xl font-medium pb-2 text-gray-600">
               Cutting-Edge Technology
             </h3>
             <p className="leading-7 text-slate-600">
@@ -43,8 +50,11 @@ function Why() {
               process and impeccable quality in every track.
             </p>
           </div>
-          <div className="border-[1px] p-4">
-            <h3 className="text-xl font-medium pb-2">Passion for Innovation</h3>
+          <div className="border-[1px] p-4 flex justify-center flex-col items-center">
+            <GiSelfLove className="text-[#AFE630] text-3xl my-2" />
+            <h3 className="text-xl font-medium pb-2 text-gray-600">
+              Passion for Innovation
+            </h3>
             <p className="leading-7 text-slate-600">
               Our passion for innovation drives us to constantly explore new
               horizons in sound. We thrive on pushing boundaries, embracing new
@@ -52,8 +62,11 @@ function Why() {
               of music production.
             </p>
           </div>
-          <div className="border-[1px] p-4">
-            <h3 className="text-xl font-medium pb-2">Collaborative Approach</h3>
+          <div className="border-[1px] p-4 flex justify-center flex-col items-center">
+            <FaHandsHelping className="text-[#AFE630] text-3xl my-2" />
+            <h3 className="text-xl font-medium pb-2 text-gray-600">
+              Collaborative Approach
+            </h3>
             <p className="leading-7 text-slate-600">
               Collaborating with Nexus Beats means becoming part of a creative
               journey. We value collaboration and work closely with our clients,

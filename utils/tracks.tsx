@@ -12,7 +12,8 @@ const music: Audio[] = [
   {
     title: "Cali",
     artist: "Wataboi",
-    audioSrc: Cali,
+    audioSrc:
+      "https://res.cloudinary.com/isiagi/raw/upload/v1701251255/AudioUploads/Hey.mp3",
     //   image: imgSrc,
     color: "#00aeb0",
   },
@@ -24,14 +25,15 @@ const music: Audio[] = [
     color: "#ffb77a",
   },
   {
-    title: "I Wonder",
+    title: "Testing",
     artist: "DreamHeaven",
-    audioSrc: Cali,
+    audioSrc:
+      "https://res.cloudinary.com/isiagi/raw/upload/v1701251255/AudioUploads/Hey.mp3",
     //   image: imgSrc3,
     color: "#5f9fff",
   },
   {
-    title: "50",
+    title: "Love",
     artist: "tobylane",
     audioSrc: song,
     //   image: imgSrc2,
@@ -40,7 +42,8 @@ const music: Audio[] = [
   {
     title: "I Wonder",
     artist: "DreamHeaven",
-    audioSrc: Cali,
+    audioSrc:
+      "https://res.cloudinary.com/isiagi/raw/upload/v1701251255/AudioUploads/Hey.mp3",
     //   image: imgSrc3,
     color: "#5f9fff",
   },
