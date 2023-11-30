@@ -5,11 +5,11 @@ import "react-slideshow-image/dist/styles.css";
 
 const slideImages = [
   {
-    url: "/images/nexus1.jpeg",
+    url: "/images/nexus6.jpg",
     caption: "Slide 1",
   },
   {
-    url: "/images/nexus4.jpeg",
+    url: "/images/nexus1.jpeg",
     caption: "Slide 2",
   },
   {
@@ -36,7 +36,7 @@ function Hero() {
                 <p className="text-xl py-2 text-white font-medium max-w-[450px]">
                   Where Waves Become Melodies, and Silence Finds its Voice.
                 </p>
-                <button className="bg-blue-500 text-white px-4 py-3 rounded">
+                <button className="bg-[#E6CA30] text-white px-4 py-3 rounded">
                   Unlock Your Potential
                 </button>
               </div>

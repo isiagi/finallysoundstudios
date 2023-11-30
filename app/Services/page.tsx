@@ -10,11 +10,15 @@ function Page() {
         {/* section one */}
         <div className="grid grid-cols-fluid relative">
           <div className="max-w-[400px]">
-            <p> — Record: Craft Sonic Brilliance</p>
-            <h3 className="text-2xl font-bold">
+            <p className="text-[#AFE630]">
+              {" "}
+              <span className="text-[#AFE630]">—</span> Record: Craft Sonic
+              Brilliance
+            </p>
+            <h3 className="text-2xl font-bold text-gray-600">
               Audio Production, Mixing & Mastering
             </h3>
-            <p className="text-xl">
+            <p className=" text-slate-600 leading-7">
               At Nexus Beats, we elevate your music with unparalleled precision.
               Our audio production, mixing, and mastering services ensure every
               note reaches its full potential. From inception to the final
@@ -76,9 +80,15 @@ function Page() {
             </div>
           </div>
           <div className="max-w-[400px] justify-self-end">
-            <p> — Engage: Memorable Auditory Identities</p>
-            <h3 className="text-2xl font-bold">Radio Jingles / Voice Overs</h3>
-            <p className="text-xl">
+            <p className="text-[#E6CA30]">
+              {" "}
+              <span className="text-[#E6CA30]">—</span> Engage: Memorable
+              Auditory Identities
+            </p>
+            <h3 className="text-2xl font-bold text-gray-600">
+              Radio Jingles / Voice Overs
+            </h3>
+            <p className="leading-7 text-slate-600">
               Nexus Beats offers distinctive radio jingles and expert voice-over
               services. Our customized audio identities enhance brand
               recognition, ensuring your message resonates powerfully in
@@ -89,9 +99,13 @@ function Page() {
         {/* section three */}
         <div className="grid grid-cols-fluid relative">
           <div className="max-w-[400px]">
-            <p> — Amplify: Power Your Brand Message</p>
-            <h3 className="text-2xl font-bold">Adverts</h3>
-            <p className="text-xl">
+            <p className="text-[#E6B430]">
+              {" "}
+              <span className="text-[#E6B430]">—</span> Amplify: Power Your
+              Brand Message
+            </p>
+            <h3 className="text-2xl font-bold text-gray-600">Adverts</h3>
+            <p className="leading-7 text-gray-600">
               Nexus Beats specializes in crafting dynamic and impactful audio
               adverts. We amplify your brand&apos;s voice, delivering compelling
               messages that cut through the clutter, ensuring your brand
@@ -152,9 +166,13 @@ function Page() {
             </div>
           </div>
           <div className="max-w-[400px] justify-self-end">
-            <p> — Empower: Unlock Vocal Potential</p>
-            <h3 className="text-2xl font-bold">Vocal Training</h3>
-            <p className="text-xl">
+            <p className="text-[#57E620]">
+              {" "}
+              <span className="text-[#57E620]">—</span> Empower: Unlock Vocal
+              Potential
+            </p>
+            <h3 className="text-2xl font-bold text-gray-600">Vocal Training</h3>
+            <p className="text-slate-600 leading-7">
               Nexus Beats empowers artists through personalized vocal training.
               Whether you&apos;re a beginner or seeking to refine your skills,
               our instructors guide you through techniques to unlock your full
@@ -165,9 +183,15 @@ function Page() {
         {/* section five */}
         <div className="grid grid-cols-fluid relative">
           <div className="max-w-[400px]">
-            <p> — Inspire: Ignite Creative Mastery</p>
-            <h3 className="text-2xl font-bold">Music Production Training</h3>
-            <p className="text-xl">
+            <p className="text-[#E5E02F]">
+              {" "}
+              <span className="text-[#E5E02F]">—</span> Inspire: Ignite Creative
+              Mastery
+            </p>
+            <h3 className="text-2xl font-bold text-gray-600">
+              Music Production Training
+            </h3>
+            <p className="text-slate-600 leading-7">
               Nexus Beats offers comprehensive music production training to
               ignite your creative journey. Delve into music composition,
               production techniques, and cutting-edge tools under expert
