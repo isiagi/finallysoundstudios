@@ -6,15 +6,18 @@ import "react-slideshow-image/dist/styles.css";
 const slideImages = [
   {
     url: "/images/nexus6.jpg",
-    caption: "Slide 1",
+    caption: "Sounds From The Baddest Producer",
+    heading: "Nexus Bless This Beat",
   },
   {
-    url: "/images/nexus1.jpeg",
-    caption: "Slide 2",
+    url: "/images/nexus.jpg",
+    caption: "Your Music Journey Starts Here",
+    heading: "BeatSkills Academy",
   },
   {
     url: "/images/nexus5.jpeg",
-    caption: "Slide 3",
+    caption: "Where Waves Become Melodies, and Silence Finds its Voice.",
+    heading: "Nexus Bless This Beat",
   },
 ];
 
@@ -32,9 +35,11 @@ function Hero() {
               }}
             >
               <div className="px-12">
-                <h1 className="text-4xl text-white font-medium">Nexus Beatz</h1>
+                <h1 className="text-4xl text-white font-medium">
+                  {slideImage.heading}
+                </h1>
                 <p className="text-xl py-2 text-white font-medium max-w-[450px]">
-                  Where Waves Become Melodies, and Silence Finds its Voice.
+                  {slideImage.caption}
                 </p>
                 <button className="bg-[#E6CA30] text-white px-4 py-3 rounded">
                   Unlock Your Potential

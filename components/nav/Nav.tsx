@@ -49,6 +49,9 @@ function NavBar() {
         <Link href={"/"}>
           <li>Home</li>
         </Link>
+        <Link href={"/Academy"}>
+          <li>Academy</li>
+        </Link>
         <Link href={"/About"}>
           <li>About</li>
         </Link>
@@ -69,6 +72,9 @@ function NavBar() {
       >
         <Link href="/" onClick={() => setOpen(false)}>
           <li>Home</li>
+        </Link>
+        <Link href={"/Academy"} onClick={() => setOpen(false)}>
+          <li>Academy</li>
         </Link>
         <Link href="/About" onClick={() => setOpen(false)}>
           <li>About Us</li>
