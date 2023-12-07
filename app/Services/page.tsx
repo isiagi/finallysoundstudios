@@ -37,7 +37,7 @@ function Page() {
             />
             <div className="absolute  md:-left-20 left-[1rem]">
               <Image
-                src="/images/text1.png"
+                src="/images/beat.png"
                 alt=""
                 width={0}
                 height={0}
@@ -65,7 +65,7 @@ function Page() {
             />
             <div className="absolute  md:-right-20 right-[1rem]">
               <Image
-                src="/images/text1.png"
+                src="/images/beat.png"
                 alt=""
                 width={0}
                 height={0}
@@ -123,7 +123,7 @@ function Page() {
             />
             <div className="absolute  md:-left-20 left-[1rem]">
               <Image
-                src="/images/text1.png"
+                src="/images/beat.png"
                 alt=""
                 width={0}
                 height={0}
@@ -151,7 +151,7 @@ function Page() {
             />
             <div className="absolute  md:-right-20 right-[1rem]">
               <Image
-                src="/images/text1.png"
+                src="/images/beat.png"
                 alt=""
                 width={0}
                 height={0}
@@ -210,7 +210,7 @@ function Page() {
             />
             <div className="absolute  md:-left-20 left-[1rem]">
               <Image
-                src="/images/text1.png"
+                src="/images/beat.png"
                 alt=""
                 width={0}
                 height={0}

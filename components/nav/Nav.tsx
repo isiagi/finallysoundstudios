@@ -20,8 +20,8 @@ function NavBar() {
     <div
       className={`${
         offset > 40
-          ? "fixed z-10 w-full px-4 transition ease-in-out  h-[12vh] bg-[#E6B430] flex justify-between items-center text-white"
-          : "relative z-10 w-full px-5 transition ease-in-out  h-[12vh] bg-[#E6CA30] flex justify-between items-center text-white"
+          ? "fixed z-[100] w-full px-4 transition ease-in-out  h-[12vh] bg-[#E6B430] flex justify-between items-center text-white"
+          : "relative z-[100] w-full px-5 transition ease-in-out  h-[12vh] bg-[#E6CA30] flex justify-between items-center text-white"
       }`}
     >
       <div className="flex justify-between items-center md:w-auto w-full">
@@ -66,7 +66,7 @@ function NavBar() {
       {/* mobile nav */}
       <ul
         className={`
-        md:hidden bg-[#0B1B2B] opacity-95 z-10 flex flex-col gap-5 absolute w-full top-[calc(100%+0vh)] overflow-y-auto py-12 font-medium pl-4
+        md:hidden bg-[#0B1B2B] opacity-95 z-[100] flex flex-col gap-5 absolute w-full top-[calc(100%+0vh)] overflow-y-auto py-12 font-medium pl-4
         duration-700 text-white ${open ? "left-0" : "left-[-100%]"}
         `}
       >

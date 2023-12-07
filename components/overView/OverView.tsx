@@ -37,7 +37,7 @@ function OverView() {
           />
           <div className="absolute  md:-left-20 left-[1rem]">
             <Image
-              src="/images/text1.png"
+              src="/images/academy.png"
               alt=""
               width={0}
               height={0}
@@ -66,7 +66,7 @@ function OverView() {
           />
           <div className="absolute  md:-right-20 right-[1rem]">
             <Image
-              src="/images/text1.png"
+              src="/images/academy.png"
               alt=""
               width={0}
               height={0}
@@ -124,7 +124,7 @@ function OverView() {
           />
           <div className="absolute  md:-left-20 left-[1rem]">
             <Image
-              src="/images/text1.png"
+              src="/images/academy.png"
               alt=""
               width={0}
               height={0}
