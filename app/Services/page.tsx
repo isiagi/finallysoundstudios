@@ -5,7 +5,7 @@ import React from "react";
 function Page() {
   return (
     <div>
-      <HeaderBanner name="Services" />
+      <HeaderBanner name="Services" bgPhoto="/images/nexus6.jpg" />
       <div className="px-5 flex flex-col gap-16 py-20">
         {/* section one */}
         <div className="grid grid-cols-fluid relative">

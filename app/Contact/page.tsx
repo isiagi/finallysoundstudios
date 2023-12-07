@@ -4,7 +4,7 @@ import React from "react";
 function page() {
   return (
     <div>
-      <HeaderBanner name="Contact Us" />
+      <HeaderBanner name="Contact Us" bgPhoto="/images/nexus6.jpg" />
       <section className="text-gray-600 body-font relative -z-10">
         <div className="absolute inset-0 bg-gray-300">
           <iframe

@@ -8,7 +8,7 @@ import React from "react";
 function page() {
   return (
     <div>
-      <HeaderBanner name="About Us" />
+      <HeaderBanner name="About Us" bgPhoto="/images/nexus6.jpg" />
       <div className="flex flex-col gap-5 pb-10 bg-[#F3F4F6]">
         {/* section one */}
         <div className="h-fit grid grid-cols-fluid relative px-5 md:gap-10 gap-5">
