@@ -28,7 +28,7 @@ function Hero() {
         {slideImages.map((slideImage, index) => (
           <div key={index}>
             <div
-              className="flex items-center bg-center h-[88vh] bg-blend-overlay bg-[#00000099]"
+              className="-z-10 flex items-center bg-center h-[88vh] bg-blend-overlay bg-[#00000099]"
               style={{
                 backgroundImage: `url('${slideImage.url}')`,
                 backgroundSize: "cover",
