@@ -9,7 +9,7 @@ import Loading from "./loading";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Finally Sound studios",
+  title: "Nexus Bless This Beat",
   description: "Where Waves Become Melodies, and Silence Finds its Voice",
 };
 

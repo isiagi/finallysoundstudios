@@ -18,10 +18,10 @@ function Footer() {
             >
               <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
             </svg>
-            <span className="ml-3 text-xl">Finally Sound studios</span>
+            <span className="ml-3 text-xl">Final Sound Recordings</span>
           </a>
           <p className="mt-2 text-sm text-gray-500">
-            Where Waves Become Melodies, and Silence Finds its Voice.
+            Uplifting Talents Of A Black Child.
           </p>
         </div>
         <div className="flex-grow flex flex-wrap md:pr-20 -mb-10 md:text-left text-center order-first">
@@ -29,9 +29,12 @@ function Footer() {
             <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">
               IMPORTANT LINKS
             </h2>
-            <nav className="list-none mb-10">
+            <nav className="list-none mb-10 leading-7">
               <li>
                 <a className="text-gray-600 hover:text-gray-800">Home</a>
+              </li>
+              <li>
+                <a className="text-gray-600 hover:text-gray-800">Academy</a>
               </li>
               <li>
                 <a className="text-gray-600 hover:text-gray-800">About</a>
@@ -50,25 +53,30 @@ function Footer() {
             <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">
               SERVICES
             </h2>
-            <nav className="list-none mb-10">
+            <nav className="list-none mb-10 leading-7">
               <li>
                 <a className="text-gray-600 hover:text-gray-800">
-                  Music Production
+                  Audio Production
                 </a>
               </li>
               <li>
                 <a className="text-gray-600 hover:text-gray-800">
-                  Beat Mastering
+                  Mixing & Mastering
                 </a>
               </li>
               <li>
                 <a className="text-gray-600 hover:text-gray-800">
-                  Music Production
+                  Audio Production Lessons
                 </a>
               </li>
               <li>
                 <a className="text-gray-600 hover:text-gray-800">
-                  Music Production
+                  Jingles & Voice Overs
+                </a>
+              </li>
+              <li>
+                <a className="text-gray-600 hover:text-gray-800">
+                  Piano & Guitar Lessons
                 </a>
               </li>
             </nav>
@@ -77,23 +85,28 @@ function Footer() {
             <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">
               MUSIC GENRES
             </h2>
-            <nav className="list-none mb-10">
+            <nav className="list-none mb-10 leading-7">
               <li>
-                <a className="text-gray-600 hover:text-gray-800">Afro Music</a>
-              </li>
-              <li>
-                <a className="text-gray-600 hover:text-gray-800">Jazz</a>
-              </li>
-              <li>
-                <a className="text-gray-600 hover:text-gray-800">Hiphop</a>
-              </li>
-              <li>
-                <a className="text-gray-600 hover:text-gray-800">Reggae</a>
+                <a className="text-gray-600 hover:text-gray-800">
+                  Afro Beat / Afro Pop
+                </a>
               </li>
               <li>
                 <a className="text-gray-600 hover:text-gray-800">
-                  Electronic/Dance
+                  Lofi Afro Beat
                 </a>
+              </li>
+              <li>
+                <a className="text-gray-600 hover:text-gray-800">Zouk</a>
+              </li>
+              <li>
+                <a className="text-gray-600 hover:text-gray-800">HipHop</a>
+              </li>
+              <li>
+                <a className="text-gray-600 hover:text-gray-800">Reggeaton</a>
+              </li>
+              <li>
+                <a className="text-gray-600 hover:text-gray-800">Reggea</a>
               </li>
             </nav>
           </div>
@@ -102,14 +115,14 @@ function Footer() {
       <div className="bg-gray-100">
         <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
           <p className="text-gray-500 text-sm text-center sm:text-left">
-            © 2023 Finally Sound studios —
+            © 2023 Final Sound Recordings —
             <a
               href="https://twitter.com/knyttneve"
               rel="noopener noreferrer"
               className="text-gray-600 ml-1"
               target="_blank"
             >
-              @sixteen N&apos; Nexus
+              Nexus Bless This Beat
             </a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
