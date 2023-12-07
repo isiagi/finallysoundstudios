@@ -7,7 +7,7 @@ import React from "react";
 function page() {
   return (
     <div>
-      <HeaderBanner name="BeatSkills Academy" />
+      <HeaderBanner name="BeatSkills Academy" bgPhoto="/images/nexus.jpg" />
       <Academy />
       <Accord />
       <OverView />
