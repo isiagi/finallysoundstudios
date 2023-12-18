@@ -35,13 +35,13 @@ function Hero() {
               }}
             >
               <div className="px-12">
-                <h1 className="text-4xl text-white font-medium">
+                <h1 className="text-4xl text-[#fff] font-semibold">
                   {slideImage.heading}
                 </h1>
-                <p className="text-xl py-2 text-white font-medium max-w-[450px]">
+                <p className="text-xl py-4 text-white font-medium max-w-[450px]">
                   {slideImage.caption}
                 </p>
-                <button className="bg-[#E6CA30] text-white px-4 py-3 rounded">
+                <button className="bg-[#ED837E] text-white px-4 py-3 rounded">
                   Unlock Your Potential
                 </button>
               </div>

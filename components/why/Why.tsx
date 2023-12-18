@@ -8,8 +8,8 @@ function Why() {
     <div className="py-10">
       <div className="grid grid-cols-fluid px-5">
         <div>
-          <p className="text-3xl font-medium text-[#E5E02F]">Why choose us</p>
-          <h3 className="text-xl py-2 font-medium  text-gray-600">
+          <p className="text-3xl font-medium text-[#AD8987]">Why choose us</p>
+          <h3 className="text-xl py-2 font-medium text-[#ED837E]">
             Elevate Your Sound with Nexus Beats
           </h3>
           <p className="max-w-[500px] leading-7 text-slate-600">
@@ -20,14 +20,14 @@ function Why() {
             excellence.
           </p>
 
-          <button type="button" className="bg-[#E6CA30] text-white p-2 rounded">
+          <button type="button" className="bg-[#ED837E] text-white p-2 rounded">
             Book Session
           </button>
         </div>
         <div className="grid grid-cols-fluid gap-2">
           <div className="border-[1px] p-4 flex justify-center flex-col items-center">
-            <GrUserExpert className="text-[#AFE630] text-3xl my-2" />
-            <h3 className="text-xl font-medium pb-2 text-gray-600">
+            <GrUserExpert className="text-[#ED837E] text-3xl my-2" />
+            <h3 className="text-xl font-medium pb-2 text-[#AD8987]">
               Precision and Expertise
             </h3>
             <p className="leading-7 text-slate-600">
@@ -39,8 +39,8 @@ function Why() {
             </p>
           </div>
           <div className="border-[1px] p-4 flex justify-center flex-col items-center">
-            <GrTechnology className="text-[#AFE630] text-3xl my-2" />
-            <h3 className="text-xl font-medium pb-2 text-gray-600">
+            <GrTechnology className="text-[#ED837E] text-3xl my-2" />
+            <h3 className="text-xl font-medium pb-2 text-[#AD8987]">
               Cutting-Edge Technology
             </h3>
             <p className="leading-7 text-slate-600">
@@ -51,8 +51,8 @@ function Why() {
             </p>
           </div>
           <div className="border-[1px] p-4 flex justify-center flex-col items-center">
-            <GiSelfLove className="text-[#AFE630] text-3xl my-2" />
-            <h3 className="text-xl font-medium pb-2 text-gray-600">
+            <GiSelfLove className="text-[#ED837E] text-3xl my-2" />
+            <h3 className="text-xl font-medium pb-2 text-[#AD8987]">
               Passion for Innovation
             </h3>
             <p className="leading-7 text-slate-600">
@@ -63,8 +63,8 @@ function Why() {
             </p>
           </div>
           <div className="border-[1px] p-4 flex justify-center flex-col items-center">
-            <FaHandsHelping className="text-[#AFE630] text-3xl my-2" />
-            <h3 className="text-xl font-medium pb-2 text-gray-600">
+            <FaHandsHelping className="text-[#ED837E] text-3xl my-2" />
+            <h3 className="text-xl font-medium pb-2 text-[#AD8987]">
               Collaborative Approach
             </h3>
             <p className="leading-7 text-slate-600">

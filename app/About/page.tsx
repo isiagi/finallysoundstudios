@@ -32,14 +32,14 @@ function page() {
           </div>
           <div className="md:py-20 py-0 leading-7">
             <p className="text-[#E5E02F]">— Our mission</p>
-            <h3 className="text-2xl font-bold text-gray-600">Nexus Beats</h3>
+            <h3 className="text-2xl font-bold text-[#AD8987]">Nexus Beats</h3>
             <p className="text-slate-600">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
               enim ad minim veniam, quis nostrud exercitation ullamco laboris
               nisi ut aliquip ex ea commodo consequat.
             </p>
-            <button className="bg-[#E6CA30] text-white p-2 rounded">
+            <button className="bg-[#ED837E] text-white p-2 rounded">
               Get In Touch
             </button>
           </div>
@@ -48,7 +48,7 @@ function page() {
         <div className="h-fit grid grid-cols-fluid relative px-5 md:gap-10 gap-2">
           <div className="md:py-20 py-0 leading-7">
             <p className="text-[#AFE630]">— Our mission</p>
-            <h3 className="text-2xl font-bold text-gray-600">
+            <h3 className="text-2xl font-bold text-[#AD8987]">
               BeatSkills Academy
             </h3>
             <p className="text-slate-600">
@@ -57,7 +57,7 @@ function page() {
               enim ad minim veniam, quis nostrud exercitation ullamco laboris
               nisi ut aliquip ex ea commodo consequat.
             </p>
-            <button className="bg-[#E6CA30] text-white p-2 rounded">
+            <button className="bg-[#ED837E] text-white p-2 rounded">
               Get In Touch
             </button>
           </div>

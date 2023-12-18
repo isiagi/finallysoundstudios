@@ -39,7 +39,7 @@ const slideImages = [
 function Testimonial() {
   return (
     <div className="py-10">
-      <h1 className="text-3xl font-medium title-font text-gray-600 mb-12 text-center">
+      <h1 className="text-3xl font-medium title-font text-[#AD8987] mb-12 text-center">
         Testimonials
       </h1>
 
