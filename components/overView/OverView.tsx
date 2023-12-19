@@ -4,15 +4,15 @@ import React from "react";
 function OverView() {
   return (
     <div className="px-5 py-10">
-      <h1 className="text-3xl text-center text-[#AD8987] font-medium mb-5">
+      <h1 className="text-3xl text-center text-[#8AED97] font-medium mb-5">
         OVER-VIEW
       </h1>
       {/* section one */}
       <div className="grid grid-cols-fluid relative">
         <div className="max-w-[400px]">
-          <p className="text-[#AFE630]">
+          <p className="text-[#8AED97]">
             {" "}
-            <span className="text-[#AFE630]">—</span> Record: Craft Sonic
+            <span className="text-[#8AED97]">—</span> Record: Craft Sonic
             Brilliance
           </p>
           <h3 className="text-2xl font-bold text-[#AD8987]">
@@ -81,9 +81,9 @@ function OverView() {
           </div>
         </div>
         <div className="max-w-[400px] justify-self-end">
-          <p className="text-[#E6CA30]">
+          <p className="text-[#8AED97]">
             {" "}
-            <span className="text-[#E6CA30]">—</span> Engage: Memorable Auditory
+            <span className="text-[#8AED97]">—</span> Engage: Memorable Auditory
             Identities
           </p>
           <h3 className="text-2xl font-bold text-[#AD8987]">Piano Lessons</h3>
@@ -99,9 +99,9 @@ function OverView() {
       {/* section one */}
       <div className="grid grid-cols-fluid relative">
         <div className="max-w-[400px]">
-          <p className="text-[#AFE630]">
+          <p className="text-[#8AED97]">
             {" "}
-            <span className="text-[#AFE630]">—</span> Record: Craft Sonic
+            <span className="text-[#8AED97]">—</span> Record: Craft Sonic
             Brilliance
           </p>
           <h3 className="text-2xl font-bold text-[#AD8987]">Guitar</h3>

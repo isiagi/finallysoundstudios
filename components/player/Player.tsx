@@ -11,7 +11,7 @@ function Player() {
     <div className="py-12 bg-[#F3F4F6] px-5">
       <div className="text-center max-w-[600px] my-0 mx-auto">
         <h1 className="text-slate-600">Our portfolio</h1>
-        <h2 className="text-3xl font-semibold text-[#AD8987]">
+        <h2 className="text-3xl font-semibold text-[#8AED97]">
           Recent Records
         </h2>
         <p className="py-3 text-slate-600">
@@ -29,7 +29,7 @@ function Player() {
                 setSong({ song: track.audioSrc, name: track.title })
               }
               className={`${
-                song.name === track.title ? `bg-[#AFE630]` : `bg-[#AD8987]`
+                song.name === track.title ? `bg-[#8AED97]` : `bg-[#AD8987]`
               } text-white py-3 my-2 px-4 cursor-pointer rounded`}
             >
               <div className="flex items-center justify-between">

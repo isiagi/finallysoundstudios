@@ -4,7 +4,7 @@ function Team() {
   return (
     <div className="px-5 py-10">
       <div>
-        <h2 className="text-4xl text-center text-[#AD8987] font-semibold py-10">
+        <h2 className="text-4xl text-center text-[#8AED97] font-semibold py-10">
           OUR TEAM OF SOUND ENGINEER
         </h2>
         <div className="grid grid-cols-fluid gap-10">

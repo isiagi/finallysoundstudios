@@ -10,9 +10,9 @@ function Page() {
         {/* section one */}
         <div className="grid grid-cols-fluid relative">
           <div className="max-w-[400px]">
-            <p className="text-[#AFE630]">
+            <p className="text-[#8AED97]">
               {" "}
-              <span className="text-[#AFE630]">—</span> Record: Craft Sonic
+              <span className="text-[#8AED97]">—</span> Record: Craft Sonic
               Brilliance
             </p>
             <h3 className="text-2xl font-bold text-[#AD8987]">
@@ -80,9 +80,9 @@ function Page() {
             </div>
           </div>
           <div className="max-w-[400px] justify-self-end">
-            <p className="text-[#E6CA30]">
+            <p className="text-[#8AED97]">
               {" "}
-              <span className="text-[#E6CA30]">—</span> Engage: Memorable
+              <span className="text-[#8AED97]">—</span> Engage: Memorable
               Auditory Identities
             </p>
             <h3 className="text-2xl font-bold text-[#AD8987]">
@@ -99,9 +99,9 @@ function Page() {
         {/* section three */}
         <div className="grid grid-cols-fluid relative">
           <div className="max-w-[400px]">
-            <p className="text-[#E6B430]">
+            <p className="text-[#8AED97]">
               {" "}
-              <span className="text-[#E6B430]">—</span> Amplify: Power Your
+              <span className="text-[#8AED97]">—</span> Amplify: Power Your
               Brand Message
             </p>
             <h3 className="text-2xl font-bold text-[#AD8987]">Adverts</h3>
@@ -166,9 +166,9 @@ function Page() {
             </div>
           </div>
           <div className="max-w-[400px] justify-self-end">
-            <p className="text-[#57E620]">
+            <p className="text-[#8AED97]">
               {" "}
-              <span className="text-[#57E620]">—</span> Empower: Unlock Vocal
+              <span className="text-[#8AED97]">—</span> Empower: Unlock Vocal
               Potential
             </p>
             <h3 className="text-2xl font-bold text-[#AD8987]">
@@ -185,9 +185,9 @@ function Page() {
         {/* section five */}
         <div className="grid grid-cols-fluid relative">
           <div className="max-w-[400px]">
-            <p className="text-[#E5E02F]">
+            <p className="text-[#8AED97]">
               {" "}
-              <span className="text-[#E5E02F]">—</span> Inspire: Ignite Creative
+              <span className="text-[#8AED97]">—</span> Inspire: Ignite Creative
               Mastery
             </p>
             <h3 className="text-2xl font-bold text-[#AD8987]">

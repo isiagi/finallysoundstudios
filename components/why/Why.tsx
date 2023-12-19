@@ -8,7 +8,7 @@ function Why() {
     <div className="py-10">
       <div className="grid grid-cols-fluid px-5">
         <div>
-          <p className="text-3xl font-medium text-[#AD8987]">Why choose us</p>
+          <p className="text-3xl font-medium text-[#8AED97]">Why choose us</p>
           <h3 className="text-xl py-2 font-medium text-[#ED837E]">
             Elevate Your Sound with Nexus Beats
           </h3>
@@ -25,7 +25,7 @@ function Why() {
           </button>
         </div>
         <div className="grid grid-cols-fluid gap-2">
-          <div className="border-[1px] p-4 flex justify-center flex-col items-center">
+          <div className="border-[1px] border-[#8AED97] p-4 flex justify-center flex-col items-center">
             <GrUserExpert className="text-[#ED837E] text-3xl my-2" />
             <h3 className="text-xl font-medium pb-2 text-[#AD8987]">
               Precision and Expertise
@@ -38,7 +38,7 @@ function Why() {
               landscape.
             </p>
           </div>
-          <div className="border-[1px] p-4 flex justify-center flex-col items-center">
+          <div className="border-[1px] border-[#8AED97] p-4 flex justify-center flex-col items-center">
             <GrTechnology className="text-[#ED837E] text-3xl my-2" />
             <h3 className="text-xl font-medium pb-2 text-[#AD8987]">
               Cutting-Edge Technology
@@ -50,7 +50,7 @@ function Why() {
               process and impeccable quality in every track.
             </p>
           </div>
-          <div className="border-[1px] p-4 flex justify-center flex-col items-center">
+          <div className="border-[1px] border-[#8AED97] p-4 flex justify-center flex-col items-center">
             <GiSelfLove className="text-[#ED837E] text-3xl my-2" />
             <h3 className="text-xl font-medium pb-2 text-[#AD8987]">
               Passion for Innovation
@@ -62,7 +62,7 @@ function Why() {
               of music production.
             </p>
           </div>
-          <div className="border-[1px] p-4 flex justify-center flex-col items-center">
+          <div className="border-[1px] border-[#8AED97] p-4 flex justify-center flex-col items-center">
             <FaHandsHelping className="text-[#ED837E] text-3xl my-2" />
             <h3 className="text-xl font-medium pb-2 text-[#AD8987]">
               Collaborative Approach

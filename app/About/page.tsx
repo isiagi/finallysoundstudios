@@ -31,8 +31,8 @@ function page() {
             />
           </div>
           <div className="md:py-20 py-0 leading-7">
-            <p className="text-[#E5E02F]">— Our mission</p>
-            <h3 className="text-2xl font-bold text-[#AD8987]">Nexus Beats</h3>
+            <p className="text-[#AD8987]">— Our mission</p>
+            <h3 className="text-2xl font-bold text-[#8AED97]">Nexus Beats</h3>
             <p className="text-slate-600">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -47,8 +47,8 @@ function page() {
         {/* section two */}
         <div className="h-fit grid grid-cols-fluid relative px-5 md:gap-10 gap-2">
           <div className="md:py-20 py-0 leading-7">
-            <p className="text-[#AFE630]">— Our mission</p>
-            <h3 className="text-2xl font-bold text-[#AD8987]">
+            <p className="text-[#AD8987]">— Our mission</p>
+            <h3 className="text-2xl font-bold text-[#8AED97]">
               BeatSkills Academy
             </h3>
             <p className="text-slate-600">

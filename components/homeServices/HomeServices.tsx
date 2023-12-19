@@ -6,7 +6,7 @@ function HomeServices() {
     <div className="py-12">
       <div className="text-center">
         <h2 className="text-slate-600">What I do</h2>
-        <h2 className="text-3xl font-semibold text-[#AD8987]">
+        <h2 className="text-3xl font-semibold text-[#8AED97]">
           Studio Services
         </h2>
       </div>
