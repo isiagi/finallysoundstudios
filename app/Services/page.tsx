@@ -15,7 +15,7 @@ function Page() {
               <span className="text-[#8AED97]">—</span> Record: Craft Sonic
               Brilliance
             </p>
-            <h3 className="text-2xl font-bold text-[#AD8987]">
+            <h3 className="text-2xl py-2 font-bold text-[#AD8987]">
               Audio Production, Mixing & Mastering
             </h3>
             <p className=" text-slate-600 leading-7">
@@ -85,7 +85,7 @@ function Page() {
               <span className="text-[#8AED97]">—</span> Engage: Memorable
               Auditory Identities
             </p>
-            <h3 className="text-2xl font-bold text-[#AD8987]">
+            <h3 className="text-2xl py-2 font-bold text-[#AD8987]">
               Radio Jingles / Voice Overs
             </h3>
             <p className="leading-7 text-slate-600">
@@ -104,7 +104,7 @@ function Page() {
               <span className="text-[#8AED97]">—</span> Amplify: Power Your
               Brand Message
             </p>
-            <h3 className="text-2xl font-bold text-[#AD8987]">Adverts</h3>
+            <h3 className="text-2xl py-2 font-bold text-[#AD8987]">Adverts</h3>
             <p className="leading-7 text-gray-600">
               Nexus Beats specializes in crafting dynamic and impactful audio
               adverts. We amplify your brand&apos;s voice, delivering compelling
@@ -171,7 +171,7 @@ function Page() {
               <span className="text-[#8AED97]">—</span> Empower: Unlock Vocal
               Potential
             </p>
-            <h3 className="text-2xl font-bold text-[#AD8987]">
+            <h3 className="text-2xl py-2 font-bold text-[#AD8987]">
               Vocal Training
             </h3>
             <p className="text-slate-600 leading-7">
@@ -190,7 +190,7 @@ function Page() {
               <span className="text-[#8AED97]">—</span> Inspire: Ignite Creative
               Mastery
             </p>
-            <h3 className="text-2xl font-bold text-[#AD8987]">
+            <h3 className="text-2xl py-2 font-bold text-[#AD8987]">
               Music Production Training
             </h3>
             <p className="text-slate-600 leading-7">

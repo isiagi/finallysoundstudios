@@ -42,9 +42,6 @@ function Academy() {
           </button>
         </div>
       </div>
-      <div className="px-5">
-        <h1>Courses</h1>
-      </div>
     </div>
   );
 }
