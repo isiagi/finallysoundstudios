@@ -8,7 +8,7 @@ function Why() {
     <div className="py-10">
       <div className="grid grid-cols-fluid px-5">
         <div>
-          <p className="text-3xl font-medium text-[#8AED97]">Why choose us</p>
+          <p className="text-4xl font-medium text-[#8AED97]">WHY CHOOSE US</p>
           <h3 className="text-xl py-2 font-medium text-[#ED837E]">
             Elevate Your Sound with Nexus Beats
           </h3>

@@ -4,7 +4,7 @@ import React from "react";
 function OverView() {
   return (
     <div className="px-5 py-10">
-      <h1 className="text-3xl text-center text-[#8AED97] font-medium mb-5">
+      <h1 className="text-4xl text-center text-[#8AED97] font-medium mb-5">
         OVER-VIEW
       </h1>
       {/* section one */}

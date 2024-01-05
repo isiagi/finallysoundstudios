@@ -1,12 +1,15 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Roboto_Mono } from "next/font/google";
 import "./globals.css";
 import Nav from "@/components/nav/Nav";
 import Footer from "@/components/footer/Footer";
 import { Suspense } from "react";
 import Loading from "./loading";
 
-const inter = Inter({ subsets: ["latin"] });
+const roboto = Roboto_Mono({
+  subsets: ["latin"],
+  weight: ["300", "400", "500"],
+});
 
 export const metadata: Metadata = {
   title: "Nexus Bless This Beat",
@@ -20,7 +23,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={roboto.className}>
         <Nav />
         <Suspense fallback={<Loading />}>{children}</Suspense>
         <Footer />
