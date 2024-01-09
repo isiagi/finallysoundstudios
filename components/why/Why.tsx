@@ -22,15 +22,19 @@ function Why() {
             excellence.
           </p>
 
+
           <button
             type="button"
             className="bg-[#ED837E] mt-7 text-white p-2 rounded"
           >
+
             Book Session
           </button>
         </div>
         <div className="grid grid-cols-fluid gap-2">
+
           <div className="border-[1px] bg-[url('/images/audio.jpg')] bg-cover bg-center bg-blend-overlay bg-black bg-opacity-60 hover:bg-opacity-90  border-[#8AED97] p-4 flex justify-center flex-col items-center">
+
             <GrUserExpert className="text-[#88EA97] text-3xl my-2" />
             <h3 className="text-xl text-center font-medium pb-2 text-[#EC837E]">
               Precision and Expertise
@@ -43,7 +47,9 @@ function Why() {
               landscape.
             </p>
           </div>
+
           <div className="border-[1px] bg-[url('/images/audio.jpg')] bg-cover bg-center bg-blend-overlay bg-black bg-opacity-60 hover:bg-opacity-90 border-[#8AED97] p-4 flex justify-center flex-col items-center">
+
             <GrTechnology className="text-[#ED837E] text-3xl my-2" />
             <h3 className="text-xl font-medium text-center pb-2 text-[#8AED97]">
               Cutting-Edge Technology
@@ -55,7 +61,9 @@ function Why() {
               process and impeccable quality in every track.
             </p>
           </div>
+
           <div className="border-[1px] bg-[url('/images/audio.jpg')] bg-cover bg-center bg-blend-overlay bg-black bg-opacity-60 hover:bg-opacity-90 border-[#8AED97] p-4 flex justify-center flex-col items-center">
+
             <GiSelfLove className="text-[#ED837E] text-3xl my-2" />
             <h3 className="text-xl text-center font-medium pb-2 text-[#8AED97]">
               Passion for Innovation
@@ -67,7 +75,9 @@ function Why() {
               of music production.
             </p>
           </div>
+
           <div className="border-[1px] bg-[url('/images/audio.jpg')] bg-cover bg-center bg-blend-overlay bg-black bg-opacity-60 hover:bg-opacity-90 border-[#8AED97] p-4 flex justify-center flex-col items-center">
+
             <FaHandsHelping className="text-[#8AED97] text-3xl my-2" />
             <h3 className="text-xl font-medium text-center pb-2 text-[#EC837E]">
               Collaborative Approach

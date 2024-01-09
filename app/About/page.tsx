@@ -39,7 +39,9 @@ function page() {
               sets new standards of excellence. We&apos;re dedicated to pushing
               boundaries and delivering captivating, top-tier sonic landscapes.
             </p>
+
             <button className="bg-[#ED837E] text-white mt-7 p-2 rounded">
+
               Get In Touch
             </button>
           </div>
@@ -58,7 +60,9 @@ function page() {
               of all levels towards their musical aspirations, creating a
               vibrant community where passion thrives.
             </p>
+
             <button className="bg-[#ED837E] text-white mt-7 p-2 rounded">
+
               Get In Touch
             </button>
           </div>
