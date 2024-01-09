@@ -9,16 +9,15 @@ import {
 
 function Accord() {
   return (
-    <div className="px-5">
+    <div className="px-5 py-16">
       <div>
-        <h2 className="text-3xl text-[#88EA97]">Modules</h2>
-        <p>List of our learning Modules</p>
+        <h2 className="text-3xl text-center text-[#88EA97]">Modules</h2>
       </div>
       <Accordion>
         <AccordionItem
           style={{ borderBottom: "1px solid gray", paddingBlock: "20px" }}
         >
-          <h2>
+          <h2 style={{ color: "#EC8AA4", fontSize: "1.3rem" }}>
             <AccordionButton>
               <Box as="span" flex="1" textAlign="left">
                 1: Introduction to Audio Production
@@ -26,7 +25,7 @@ function Accord() {
               <AccordionIcon />
             </AccordionButton>
           </h2>
-          <AccordionPanel pb={4}>
+          <AccordionPanel pb={4} textColor={"#AD8987"}>
             <p>Lesson 1: Introduction to sound and music theory</p>
             <p>Lesson 2: Learn how to use a digital audio workstation (DAW)</p>
             <p>Lesson 3: Recording basics & setting up Studio Equipments</p>
@@ -36,7 +35,7 @@ function Accord() {
         <AccordionItem
           style={{ borderBottom: "1px solid gray", paddingBlock: "20px" }}
         >
-          <h2>
+          <h2 style={{ color: "#EC8AA4", fontSize: "1.3rem" }}>
             <AccordionButton>
               <Box as="span" flex="1" textAlign="left">
                 2: Recording and Editing
@@ -44,7 +43,7 @@ function Accord() {
               <AccordionIcon />
             </AccordionButton>
           </h2>
-          <AccordionPanel pb={4}>
+          <AccordionPanel pb={4} textColor={"#AD8987"}>
             <p>
               Lesson 1: Recording for different instruments and vocal recording
             </p>
@@ -57,7 +56,7 @@ function Accord() {
         <AccordionItem
           style={{ borderBottom: "1px solid gray", paddingBlock: "20px" }}
         >
-          <h2>
+          <h2 style={{ color: "#EC8AA4", fontSize: "1.3rem" }}>
             <AccordionButton>
               <Box as="span" flex="1" textAlign="left">
                 3: Music Production Techniques
@@ -65,7 +64,7 @@ function Accord() {
               <AccordionIcon />
             </AccordionButton>
           </h2>
-          <AccordionPanel pb={4}>
+          <AccordionPanel pb={4} textColor={"#AD8987"}>
             <p>Lesson 1: Music arrangement and composition techniques</p>
             <p>Lesson 2: Mixing and mastering techniques</p>
             <p>Lesson 3: Using effects and processors to enhance the mix</p>
@@ -76,7 +75,7 @@ function Accord() {
         <AccordionItem
           style={{ borderBottom: "1px solid gray", paddingBlock: "20px" }}
         >
-          <h2>
+          <h2 style={{ color: "#EC8AA4", fontSize: "1.3rem" }}>
             <AccordionButton>
               <Box as="span" flex="1" textAlign="left">
                 4: Music Business and Marketing
@@ -84,7 +83,7 @@ function Accord() {
               <AccordionIcon />
             </AccordionButton>
           </h2>
-          <AccordionPanel pb={4}>
+          <AccordionPanel pb={4} textColor={"#AD8987"}>
             <p>Lesson 1: Copyright and distribution basics</p>
             <p>Lesson 2: Music promotion and social media marketing</p>
             <p>Lesson 3: Networking and building a professional network</p>

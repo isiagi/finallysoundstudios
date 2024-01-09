@@ -15,9 +15,8 @@ function Player() {
           Recent Records
         </h2>
         <p className="py-3 text-slate-600">
-          Curabitur fermentum vitae eros eu porta. Curabitur et risus egestas,
-          vulputate lacus eget, sodales odio. Mauris suscipit eleifend mauris.
-          Curabitur fermentum.
+          Explore our recent records, showcasing our musical expertise and
+          creativity.
         </p>
       </div>
       <div className="max-w-[900px] my-0 mx-auto">
