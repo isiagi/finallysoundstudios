@@ -34,12 +34,14 @@ function page() {
             <p className="text-[#AD8987]">— Our mission</p>
             <h3 className="text-2xl font-bold text-[#8AED97]">Nexus Beats</h3>
             <p className="text-slate-600">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.
+              Our mission at Nexus Beats is to transform music into immersive
+              experiences. We craft sonic art that resonates emotionally and
+              sets new standards of excellence. We&apos;re dedicated to pushing
+              boundaries and delivering captivating, top-tier sonic landscapes.
             </p>
-            <button className="bg-[#ED837E] text-white p-2 rounded">
+
+            <button className="bg-[#ED837E] text-white mt-7 p-2 rounded">
+
               Get In Touch
             </button>
           </div>
@@ -52,12 +54,15 @@ function page() {
               BeatSkills Academy
             </h3>
             <p className="text-slate-600">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.
+              At Beatskills Academy, our mission is simple: to inspire through
+              music, nurturing talent, and fostering a deep appreciation for
+              diverse genres. With seasoned professionals, we guide individuals
+              of all levels towards their musical aspirations, creating a
+              vibrant community where passion thrives.
             </p>
-            <button className="bg-[#ED837E] text-white p-2 rounded">
+
+            <button className="bg-[#ED837E] text-white mt-7 p-2 rounded">
+
               Get In Touch
             </button>
           </div>

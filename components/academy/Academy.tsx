@@ -4,15 +4,15 @@ import React from "react";
 function Academy() {
   return (
     <div>
-      <div className="grid grid-cols-fluid gap-5 px-5 pt-5">
+      <div className="grid grid-cols-fluid gap-5 px-5 pt-16">
         <div>
           <Image
-            src={"/images/nexus.jpg"}
-            alt="image"
+            src="/images/nexus.jpg"
+            alt=""
             width={0}
             height={0}
             sizes="100vw"
-            className="w-full h-[400px] object-cover rounded-md"
+            className="rounded-r-full md:w-full md:h-[400px] h-[250px] w-[280px] bg-cover bg-center"
           />
         </div>
         <div>
@@ -36,7 +36,7 @@ function Academy() {
           </p>
           <button
             type="button"
-            className="bg-[#EC8AA4] text-white mt-3 p-3 rounded"
+            className="bg-[#EC8AA4] text-white mt-7 p-3 rounded"
           >
             Enroll Now
           </button>
