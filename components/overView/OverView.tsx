@@ -4,18 +4,18 @@ import React from "react";
 function OverView() {
   return (
     <div className="px-5 py-10">
-      <h1 className="text-3xl text-center text-gray-800 font-medium mb-5">
+      <h1 className="text-4xl text-center text-[#8AED97] font-medium mb-5">
         OVER-VIEW
       </h1>
       {/* section one */}
       <div className="grid grid-cols-fluid relative">
         <div className="max-w-[400px]">
-          <p className="text-[#AFE630]">
+          <p className="text-[#8AED97]">
             {" "}
-            <span className="text-[#AFE630]">—</span> Record: Craft Sonic
+            <span className="text-[#8AED97]">—</span> Record: Craft Sonic
             Brilliance
           </p>
-          <h3 className="text-2xl font-bold text-gray-600">
+          <h3 className="text-2xl font-bold text-[#AD8987]">
             Audio Production, Mixing & Mastering
           </h3>
           <p className=" text-slate-600 leading-7">
@@ -54,7 +54,7 @@ function OverView() {
       </div>
 
       {/* section two */}
-      <div className="grid grid-cols-fluid relative">
+      <div className="grid grid-cols-fluid relative py-10">
         <div className="relative flex md:justify-center items-center justify-start">
           <Image
             src="/images/piano.jpg"
@@ -81,12 +81,12 @@ function OverView() {
           </div>
         </div>
         <div className="max-w-[400px] justify-self-end">
-          <p className="text-[#E6CA30]">
+          <p className="text-[#8AED97]">
             {" "}
-            <span className="text-[#E6CA30]">—</span> Engage: Memorable Auditory
+            <span className="text-[#8AED97]">—</span> Engage: Memorable Auditory
             Identities
           </p>
-          <h3 className="text-2xl font-bold text-gray-600">Piano Lessons</h3>
+          <h3 className="text-2xl font-bold text-[#AD8987]">Piano Lessons</h3>
           <p className="leading-7 text-slate-600">
             Beatskills Academy, offers distinctive radio jingles and expert
             voice-over services. Our customized audio identities enhance brand
@@ -99,12 +99,12 @@ function OverView() {
       {/* section one */}
       <div className="grid grid-cols-fluid relative">
         <div className="max-w-[400px]">
-          <p className="text-[#AFE630]">
+          <p className="text-[#8AED97]">
             {" "}
-            <span className="text-[#AFE630]">—</span> Record: Craft Sonic
+            <span className="text-[#8AED97]">—</span> Record: Craft Sonic
             Brilliance
           </p>
-          <h3 className="text-2xl font-bold text-gray-600">Guitar</h3>
+          <h3 className="text-2xl font-bold text-[#AD8987]">Guitar</h3>
           <p className=" text-slate-600 leading-7">
             At Beatskills Academy, we elevate your music with unparalleled
             precision. Our audio production, mixing, and mastering services

@@ -20,8 +20,8 @@ function NavBar() {
     <div
       className={`${
         offset > 40
-          ? "fixed z-[100] w-full px-4 transition ease-in-out  h-[12vh] bg-[#E6B430] flex justify-between items-center text-white"
-          : "relative z-[100] w-full px-5 transition ease-in-out  h-[12vh] bg-[#E6CA30] flex justify-between items-center text-white"
+          ? "fixed z-[100] w-full px-4 transition ease-in-out  h-[12vh] bg-[#AD8987] flex justify-between items-center text-red-500 border-b-[1px] border-[#ED837E]"
+          : "relative z-[100] w-full px-5 transition ease-in-out  h-[12vh] bg-slate-600 flex justify-between items-center text-red-500 border-b-[1px] border-[#ED837E]"
       }`}
     >
       <div className="flex justify-between items-center md:w-auto w-full">
@@ -46,19 +46,19 @@ function NavBar() {
       </div>
 
       <ul className="md:flex hidden gap-5 font-medium text-white">
-        <Link href={"/"}>
+        <Link href={"/"} className="hover:text-[#ED837E]">
           <li>Home</li>
         </Link>
-        <Link href={"/Academy"}>
+        <Link href={"/Academy"} className="hover:text-[#ED837E]">
           <li>Academy</li>
         </Link>
-        <Link href={"/About"}>
+        <Link href={"/About"} className="hover:text-[#ED837E]">
           <li>About</li>
         </Link>
-        <Link href={"/Services"}>
+        <Link href={"/Services"} className="hover:text-[#ED837E]">
           <li>Service</li>
         </Link>
-        <Link href={"/Contact"}>
+        <Link href={"/Contact"} className="hover:text-[#ED837E]">
           <li>Contact</li>
         </Link>
       </ul>

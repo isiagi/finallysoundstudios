@@ -16,7 +16,7 @@ function Academy() {
           />
         </div>
         <div>
-          <h1 className="text-3xl font-medium text-[#EC8280] mb-5">
+          <h1 className="text-4xl font-medium text-[#8AED97] mb-5">
             BEATSKILLS ACADEMY
           </h1>
           <p className="leading-7 text-slate-600 mb-3">
@@ -41,9 +41,6 @@ function Academy() {
             Enroll Now
           </button>
         </div>
-      </div>
-      <div className="px-5">
-        <h1>Courses</h1>
       </div>
     </div>
   );

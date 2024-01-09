@@ -8,8 +8,10 @@ function Why() {
     <div className="py-10">
       <div className="grid grid-cols-fluid px-5">
         <div>
-          <p className="text-3xl font-medium text-[#E5E02F]">Why choose us</p>
-          <h3 className="text-xl py-2 font-medium  text-gray-600">
+          <p className="text-3xl font-medium text-[#8AED97]">
+            EXPLORE MY UNIQUE PRODUCTION STYLE.
+          </p>
+          <h3 className="text-xl py-2 font-medium text-[#ED837E]">
             Elevate Your Sound with Nexus Beats
           </h3>
           <p className="max-w-[500px] leading-7 text-slate-600">
@@ -20,17 +22,17 @@ function Why() {
             excellence.
           </p>
 
-          <button type="button" className="bg-[#E6CA30] text-white p-2 rounded">
+          <button type="button" className="bg-[#ED837E] text-white p-2 rounded">
             Book Session
           </button>
         </div>
         <div className="grid grid-cols-fluid gap-2">
-          <div className="border-[1px] p-4 flex justify-center flex-col items-center">
-            <GrUserExpert className="text-[#AFE630] text-3xl my-2" />
-            <h3 className="text-xl font-medium pb-2 text-gray-600">
+          <div className="border-[1px] bg-[url('/images/audio.jpg')] bg-cover bg-center bg-blend-overlay bg-black bg-opacity-90  border-[#8AED97] p-4 flex justify-center flex-col items-center">
+            <GrUserExpert className="text-[#88EA97] text-3xl my-2" />
+            <h3 className="text-xl text-center font-medium pb-2 text-[#EC837E]">
               Precision and Expertise
             </h3>
-            <p className="leading-7 text-slate-600">
+            <p className="leading-7 text-white">
               Our seasoned team of audio engineers and producers brings years of
               expertise to every project. With an unwavering commitment to
               precision, we ensure your music reaches its fullest potential,
@@ -38,36 +40,36 @@ function Why() {
               landscape.
             </p>
           </div>
-          <div className="border-[1px] p-4 flex justify-center flex-col items-center">
-            <GrTechnology className="text-[#AFE630] text-3xl my-2" />
-            <h3 className="text-xl font-medium pb-2 text-gray-600">
+          <div className="border-[1px] bg-[url('/images/audio.jpg')] bg-cover bg-center bg-blend-overlay bg-black bg-opacity-90 border-[#8AED97] p-4 flex justify-center flex-col items-center">
+            <GrTechnology className="text-[#ED837E] text-3xl my-2" />
+            <h3 className="text-xl font-medium text-center pb-2 text-[#8AED97]">
               Cutting-Edge Technology
             </h3>
-            <p className="leading-7 text-slate-600">
+            <p className="leading-7  text-white">
               Nexus Beats houses state-of-the-art studios equipped with
               cutting-edge technology. From recording to mastering, we leverage
               the latest tools and techniques, ensuring a seamless production
               process and impeccable quality in every track.
             </p>
           </div>
-          <div className="border-[1px] p-4 flex justify-center flex-col items-center">
-            <GiSelfLove className="text-[#AFE630] text-3xl my-2" />
-            <h3 className="text-xl font-medium pb-2 text-gray-600">
+          <div className="border-[1px] bg-[url('/images/audio.jpg')] bg-cover bg-center bg-blend-overlay bg-black bg-opacity-90 border-[#8AED97] p-4 flex justify-center flex-col items-center">
+            <GiSelfLove className="text-[#ED837E] text-3xl my-2" />
+            <h3 className="text-xl text-center font-medium pb-2 text-[#8AED97]">
               Passion for Innovation
             </h3>
-            <p className="leading-7 text-slate-600">
+            <p className="leading-7 text-white ">
               Our passion for innovation drives us to constantly explore new
               horizons in sound. We thrive on pushing boundaries, embracing new
               trends, and staying ahead of the curve in the ever-evolving realm
               of music production.
             </p>
           </div>
-          <div className="border-[1px] p-4 flex justify-center flex-col items-center">
-            <FaHandsHelping className="text-[#AFE630] text-3xl my-2" />
-            <h3 className="text-xl font-medium pb-2 text-gray-600">
+          <div className="border-[1px] bg-[url('/images/audio.jpg')] bg-cover bg-center bg-blend-overlay bg-black bg-opacity-90 border-[#8AED97] p-4 flex justify-center flex-col items-center">
+            <FaHandsHelping className="text-[#8AED97] text-3xl my-2" />
+            <h3 className="text-xl font-medium text-center pb-2 text-[#EC837E]">
               Collaborative Approach
             </h3>
-            <p className="leading-7 text-slate-600">
+            <p className="leading-7 text-white">
               Collaborating with Nexus Beats means becoming part of a creative
               journey. We value collaboration and work closely with our clients,
               ensuring your vision is translated into a sonic masterpiece that

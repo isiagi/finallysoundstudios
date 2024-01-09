@@ -11,7 +11,7 @@ function Accord() {
   return (
     <div className="px-5">
       <div>
-        <h2 className="text-3xl">Modules</h2>
+        <h2 className="text-3xl text-[#88EA97]">Modules</h2>
         <p>List of our learning Modules</p>
       </div>
       <Accordion>
